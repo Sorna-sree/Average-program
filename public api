@@ -1,0 +1,10 @@
+1.Get your public IP address	
+https://api.ipify.org/?format=json
+2. Makeup brands and product info	
+https://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline
+3.TV show information	
+http://api.tvmaze.com/search/shows?q=golden%20girls 
+4. Music data
+https://musicbrainz.org/ws/2/artist/5b11f4ce-a62d-471e-81fc-a69a8278c7da?fmt=json
+5. Public holidays
+https://date.nager.at/api/v2/publicholidays/2020/US
